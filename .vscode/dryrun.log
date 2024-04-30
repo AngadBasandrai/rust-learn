@@ -1,0 +1,6 @@
+make.exe --dry-run --always-make --keep-going --print-directory
+make.exe: Entering directory 'e:/Rust/rust-learn'
+make.exe: Leaving directory 'e:/Rust/rust-learn'
+ 
+make.exe: *** No targets specified and no makefile found.  Stop.
+
